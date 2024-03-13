@@ -1,48 +1,42 @@
+## Hi, I'm Harsh Solanki 👋
 
-## I set my daily goals only on Monday
-![](https://img.shields.io/badge/<LLMs>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<XGB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<LGBM>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Forecasting>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<IR>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
+![MLOps](https://img.shields.io/badge/MLOps-informational?style=flat&logo=GitHub-Actions&logoColor=white&color=2bbc8a)
+![Full Stack Engineering](https://img.shields.io/badge/Full_Stack-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc8a)
 
+I'm a Senior ML Engineer at Target Tech India, passionate about deep learning in computer vision and full-stack engineering. My expertise spans Python, AWS, Springboot, Java, Scala, Kafka, PyTorch, TensorFlow, Flask, FastAPI, React, and Docker. A professional introvert, I love to write, learn, and explore new technologies every day.
 
-- 🔭 I’m currently working on being a better engineer with a perspective on real world examples 
-- 🌱 I’m currently learning Generative AI implementation at scale
-- 👯 I’m looking to collaborate on NLP
-- 🤔 I’m looking for help with how to become a better researcher!
-- 💬 Ask me about my courses on Generative AI, AWS Solutions Architect, AWS Machine Learning Specialty, AWS Developer Associate, AWS Data Analytics Specialty
-- 📫 How to reach me: [https://www.linkedin.com/in/solankiharsh/](https://www.linkedin.com/in/solankiharsh/)
+- 🔭 I’m currently working on building a MLOps platform from scratch.
+- 🌱 I’m currently learning about advanced machine learning techniques and full-stack development.
+- 👯 I’m looking to collaborate on projects involving computer vision and natural language processing.
+- 🤔 I’m looking for help with deep learning in computer vision.
+- 💬 Ask me about machine learning, AWS, full-stack development, or anything tech-related.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/solankiharsh/)
 
+### A Bit More About Me
 
-<!--
-**harshsolanki/harshsolanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm driven by a mathematical captivation and a curiosity to question and improve existing processes. My work in machine learning covers algorithms like Decision Trees, SVMs, Neural Networks, and much more. I'm also skilled in statistical techniques and experienced with a variety of data applications and databases.
 
-Here are some ideas to get you started:
+🔍 My core competencies include:
+- Machine Learning and Deep Learning
+- Data Mining and Data Engineering
+- Natural Language Processing and Computer Vision
+- Data Analysis and Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 I enjoy turning complex data into compelling stories through visualization, and I'm passionate about empathetic leadership and clear communication within teams.
 
+### Some of My Work
 
-Data Science/ML is vast and growing at an exponential rate; 
+[![Advanced LLMs Course](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=advanced-llms-course)](https://github.com/solankiharsh/advanced-llms-course)
+[![Algos](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=algos)](https://github.com/solankiharsh/algos)
+[![Data Structures and Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=DataStructures-Algo)](https://github.com/solankiharsh/DataStructures-Algo)
+[![NLP with Python](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=NLP-with-Python)](https://github.com/solankiharsh/NLP-with-Python)
+[![Pycaret](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=pycaret)](https://github.com/solankiharsh/pycaret)
+[![Predicting Next Word with BERT](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=predicting_next_word_BERT)](https://github.com/solankiharsh/predicting_next_word_BERT)
 
-This github is my attempt to figure some of it and share my knowledge
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solankiharsh&show_icons=true&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=advanced-llms-course)](https://github.com/hamzafarooq/advanced-llms-course)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=algos)](https://github.com/hamzafarooq/algos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=DataStructures-Algo)](https://github.com/hamzafarooq/DataStructures-Algo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=NLP-with-Python)](https://github.com/hamzafarooq/NLP-with-Python)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=pycaret)](https://github.com/hamzafarooq/pycaret)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=predicting_next_word_BERT)](https://github.com/hamzafarooq/predicting_next_word_BERT)
-
-
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=solankiharsh&show_icons=true&theme=radical)
+Outside of work, I value meeting new people, engaging in deep conversations, and building lasting relationships. I believe in the power of empathy, gratitude, and networking to foster meaningful connections and achieve professional success.
 
