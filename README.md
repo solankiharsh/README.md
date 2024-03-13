@@ -29,12 +29,13 @@ I'm driven by a mathematical captivation and a curiosity to question and improve
 
 ### Some of My Work
 
-[![Advanced LLMs Course](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=advanced-llms-course)](https://github.com/solankiharsh/advanced-llms-course)
-[![Algos](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=algos)](https://github.com/solankiharsh/algos)
-[![Data Structures and Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=DataStructures-Algo)](https://github.com/solankiharsh/DataStructures-Algo)
-[![NLP with Python](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=NLP-with-Python)](https://github.com/solankiharsh/NLP-with-Python)
-[![Pycaret](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=pycaret)](https://github.com/solankiharsh/pycaret)
-[![Predicting Next Word with BERT](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=predicting_next_word_BERT)](https://github.com/solankiharsh/predicting_next_word_BERT)
+[![Lending Club Insights and Modeling](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=Lending_Club_Insights_and_Modeling)](https://github.com/solankiharsh/Lending_Club_Insights_and_Modeling)
+[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=Fraud_Detection)](https://github.com/solankiharsh/Fraud_Detection)
+[![Don't Overfit](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=Dont_Overfit)](https://github.com/solankiharsh/Dont_Overfit)
+[![Learning Deep Learning](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=learning_deeplearning)](https://github.com/solankiharsh/learning_deeplearning)
+[![Automating Video Editing](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=Automating-video-editing)](https://github.com/solankiharsh/Automating-video-editing)
+[![CoWIN Vaccine Availability](https://github-readme-stats.vercel.app/api/pin/?username=solankiharsh&repo=cowin_vaccine_availability)](https://github.com/solankiharsh/cowin_vaccine_availability)
+
 
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solankiharsh&show_icons=true&theme=radical)
 
